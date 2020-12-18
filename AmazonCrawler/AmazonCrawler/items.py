@@ -13,4 +13,4 @@ class AmazoncrawlerItem(scrapy.Item):
     product_author = scrapy.Field()
     product_price = scrapy.Field()
     product_imglink = scrapy.Field()
-    pass
+
