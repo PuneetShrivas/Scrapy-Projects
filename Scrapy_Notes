@@ -48,7 +48,8 @@
                   For ID instead of class, just replace class with ID
     Using items.py
         Extracted data -> Temporary containers (items) -> Storing in database
-
+    Storing Data to database file
+        Use scrapy crawl <SpiderName> -o <filename>.<extensionType>
 
 
 
